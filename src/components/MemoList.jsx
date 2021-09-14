@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 
 export default function MemoList() {
@@ -58,4 +58,4 @@ const styles = StyleSheet.create({
     lineHeight: 16,
     color: '#848484',
   },
-})
+});
